@@ -1,4 +1,4 @@
 # helloworld
-it is a test 
-I love House dance and Hip hop 
-it's amazing
+You will find some project I did during my studies. 
+
+Thanks to Raphael Poix and Julie Loisel for their help and implication in these projects
